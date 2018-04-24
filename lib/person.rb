@@ -11,5 +11,4 @@ class Person
   def job
     @job
   end
-  binding.pry
 end

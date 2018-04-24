@@ -10,6 +10,6 @@ class Person
   end
   def job
     @job
-    binding.pry
   end
+  binding.pry
 end
